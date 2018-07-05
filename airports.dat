@@ -3134,7 +3134,7 @@
 3338,"Melbourne Moorabbin Airport","Melbourne","Australia","MBW","YMMB",-37.975799560546875,145.1020050048828,50,10,"O","Australia/Hobart","airport","OurAirports"
 3339,"Melbourne International Airport","Melbourne","Australia","MEL","YMML",-37.673301696777344,144.84300231933594,434,10,"O","Australia/Hobart","airport","OurAirports"
 3340,"RAAF Williams, Point Cook Base","Point Cook","Australia",\N,"YMPC",-37.93220138549805,144.7530059814453,14,10,"O","Australia/Hobart","airport","OurAirports"
-3341,"Adelaide International Airport","Adelaide","Australia","ADL","YPAD",-34.94499969482422,138.531005859375,20,9.5,"O","Australia/Adelaide","airport","OurAirports"
+3341,"Adelaide International Airport","Adelaide","Australia","ADL","YPAD",-35.0,138.531005859375,20,9.5,"O","Australia/Adelaide","airport","OurAirports"
 3343,"RAAF Base Edinburgh","Edinburgh","Australia",\N,"YPED",-34.70249938964844,138.62100219726562,67,9.5,"O","Australia/Adelaide","airport","OurAirports"
 3344,"Perth Jandakot Airport","Perth","Australia","JAD","YPJT",-32.09749984741211,115.88099670410156,99,8,"O","Australia/Perth","airport","OurAirports"
 3345,"Karratha Airport","Karratha","Australia","KTA","YPKA",-20.712200164799995,116.773002625,29,8,"O","Australia/Perth","airport","OurAirports"
